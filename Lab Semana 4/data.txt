@@ -1,0 +1,15 @@
+Juan Garcia,28,101,37.2
+Maria Lopez,41,102,36.9
+Pablo Martinez,19,103,37.1
+Ana Ruiz,55,104,36.8
+Carlos Gonzalez,33,105,37.5
+Elena Hernandez,47,106,37.0
+Diego Sanchez,25,107,37.3
+Sofia Gomez,39,108,36.5
+Alejandro Perez,31,109,36.9
+Lucia Fernandez,63,110,37.2
+Miguel Rodriguez,44,111,37.4
+Luisa Garcia,22,112,36.7
+Javier Torres,51,113,37.0
+Raquel Diaz,36,114,37.1
+David Moreno,27,115,36.8
